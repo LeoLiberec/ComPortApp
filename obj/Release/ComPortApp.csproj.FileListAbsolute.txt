@@ -1,0 +1,9 @@
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\bin\Release\ComPortApp.exe.config
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\bin\Release\ComPortApp.exe
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\bin\Release\ComPortApp.pdb
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.csprojAssemblyReference.cache
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.Form1.resources
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.Properties.Resources.resources
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.csproj.GenerateResource.cache
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.exe
+D:\Studium\TUL_STUDIUM\2 Rok\3 Semestr\Řídicí počítačové systémy - MTI_RPS\Cvic\Cv_01\ComPortApp\ComPortApp\obj\Release\ComPortApp.pdb
